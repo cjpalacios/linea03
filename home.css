@@ -1,0 +1,471 @@
+.filler{
+    opacity: 0;
+    min-height: 500px;
+  }
+  .compra1{
+      text-align: center;
+  }
+  
+  .idk{
+      background-image: url(/IMG/fondo.jpg); 
+      background-repeat: repeat-y;
+      background-position: 50% 50%;
+      background-size: 100%;
+  
+  }
+  
+  .cliente{
+    background-color: white;
+    opacity: 0.8;
+    width: 60%;
+    padding: 10px;
+    padding-top: 10px ;
+    margin: auto;
+  }
+  
+  .cliente h1{
+    font-family: 'Concert One', cursive;
+      text-align: center;
+      font-size: 3em;
+  }
+  
+  .indexaa{
+     background-color: white;
+  width: 50%;
+  padding: 5em;
+  border: 5px solid gray;
+  margin: auto;
+  }
+  
+  .columnas{
+    flex: 1;
+    font-family: 'Concert One', cursive;
+    text-align: center;
+    display: table-cell; 
+    height: max-content;
+  }
+  
+  .indexaa h1{
+    font-family: 'Concert One', cursive;
+    text-align: center;
+  }
+  
+  .indexaa iframe{
+      display:block;
+      margin:auto;
+      padding:auto;
+  
+    }
+  .insertar {
+    text-align: right;
+    padding-right: 7em;
+}
+  
+  .form-compra{
+      text-align: center;
+      padding: 50px 20px;
+      background-image: url(https://meridiano70.co/wp-content/uploads/2018/07/Qu%C3%A9-significa-para-vos-una-biblioteca.jpg);
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: 100%;
+      font-size: 1.5em;
+      font-weight: normal;    
+  }
+  
+  .login{
+      text-align: center;
+      padding: 50px 20px;
+      background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bb/Biblioteca_nacional_Bogot%C3%A1.JPG);
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: 100%;
+  }
+  
+  .fondousuarios{
+      text-align: center;
+      padding: 50px 20px;
+      background-image: url(https://www.comunidadbaratz.com/wp-content/uploads/Las-empresas-son-un-flujo-constante-de-informacion-y-documentacion.jpg);
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: 100%;
+      font-size: 1.5em;
+      font-weight: normal;   
+  }
+  
+  .tablas table{
+      font-size: 2em;
+      margin:0 auto;
+       width: 50% !important;
+       border-collapse: separate !important;
+       border-spacing: 10px 10px !important;
+       text-align: center;
+  }
+  .tablas th{
+      text-align: center;
+      font-family: 'Paytone One', sans-serif;
+  }
+  .tablas td{
+      font-family: 'Comic Neue', cursive;
+      font-size: 1em !important;
+  }
+  
+  .boton1{
+      text-shadow: 2px 2px 4px black; 
+      color: white;
+      font-weight: 600;
+      line-height: 50px;
+      text-align: center;
+      font-size: 20px;
+      padding: 3em 1em;
+      border-radius: 200px;
+      border: 2px solid #0016b0;
+      background:url("https://image.flaticon.com/icons/png/512/183/183328.png");
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: 100%;
+  }
+  
+  .boton2{
+      text-shadow: 2px 2px 4px black; 
+      color: white;
+      font-weight: 600;
+      line-height: 50px;
+      text-align: center;
+      font-size: 20px;
+      padding: 3em 1em;
+      border-radius: 200px;
+      border: 2px solid #0016b0;
+      background:url("https://image.flaticon.com/icons/png/512/32/32441.png");
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: 50%;
+  }
+  
+  .boton3{
+      text-shadow: 2px 2px 4px black; 
+      color: white;
+      font-weight: 600;
+      line-height: 50px;
+      text-align: center;
+      font-size: 20px;
+      padding: 3em 1em;
+      border-radius: 200px;
+      border: 2px solid #0016b0;
+      background:url("https://banner2.cleanpng.com/20180407/jpq/kisspng-book-flat-design-books-5ac984c5e9ef33.3004996215231561659582.jpg");
+      background-repeat: no-repeat;
+      background-position: 60% 40%;
+      background-size: 100%;
+  }
+  
+  .botones1{
+      margin-left: 0px !important;
+  
+  }
+  .b1{
+      text-shadow: 2px 2px 4px white; 
+      color: black;
+      font-weight: 600;
+      line-height: 50px;
+      text-align: center;
+      font-size: 20px;
+      padding: 4em 2em;
+      border-radius: 200px;
+      border: 2px solid #0016b0;
+      background:url("https://freeiconshop.com/wp-content/uploads/edd/search-flat.png");
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: 80%;
+  }
+  
+  .b2{
+      text-shadow: 2px 2px 4px white; 
+      color: black;
+      font-weight: 600;
+      line-height: 50px;
+      text-align: center;
+      font-size: 20px;
+      padding: 4em 2em;
+      border-radius: 200px;
+      border: 2px solid #0016b0;
+      background:url("https://images-na.ssl-images-amazon.com/images/I/41OCsvo6rtL.png");
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: 80%;
+  }
+  
+  .botonborrar{
+      text-align: center;
+  }
+  .allborrar{
+      background-image: url(https://meridiano70.co/wp-content/uploads/2018/07/Qu%C3%A9-significa-para-vos-una-biblioteca.jpg);
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: 100%;
+  
+  }
+  .b11{
+      text-shadow: 2px 2px 4px white; 
+      color: black;
+      line-height: 50px;
+      text-align: center;
+      font-size: 20px;
+      padding: 3em 2em;
+      border-radius: 200px;
+      border: 2px solid #0016b0;
+      background:url("data:image/png;base64,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");
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-size: 100%;
+  }
+  
+  .mensajeborrar{
+      text-align: center;
+  }
+  .selectlibro{
+      background-color: red;
+      margin:auto;
+      display:block;
+    height:50px;
+    width:300px;
+    font-size: 1.2em;
+  }
+  
+  .contenedor{
+      font-size: 2em;
+      font-family: 'Comfortaa', cursive;
+      font-weight: normal;	
+  }
+  
+
+.botonesss{
+      text-align: center;
+      margin:auto;
+      text-shadow: 2px 2px 4px black; 
+      color: black;
+      font-weight: 600;
+      line-height: 5px;
+      text-align: center;
+      font-size: 20px;
+      padding: 2em 1em;
+      border-radius: 200px;
+      border: 2px solid #0016b0;
+}
+
+  .contenedor div{ 
+      display: inline-block;
+      width: 100% !important;
+      background: url(/IMG/LogoJuego.png);
+      background-repeat: no-repeat;
+      background-position: center;
+    background-size: 20%;
+  }
+  
+  .contenedor img{
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+  }
+  
+  .contenedor p{
+      text-align: center;
+      color: #FFFFFF;
+  }
+  
+  
+  * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+  }
+   
+  
+   
+  h1 {
+      font-family: 'Passion One';
+      font-size: 2rem;
+      text-transform: uppercase;
+  }
+   
+  label {
+      width: 150px;
+      display: inline-block;
+      text-align: left;
+      font-size: 1.5rem;
+      font-family: 'Lato';
+  }
+   
+  input {
+      border: 2px solid #ccc;
+      font-size: 1.5rem;
+      font-weight: 100;
+      font-family: 'Lato';
+      padding: 10px;
+  }
+   
+  form {
+      margin: 25px auto;
+      padding: 20px;
+      border: 5px solid #ccc;
+      width: 500px;
+      background: #eee;
+  }
+   
+  div.form-element {
+      margin: 20px 0;
+  }
+   
+  button {
+      padding: 10px;
+      font-size: 1.5rem;
+      font-family: 'Lato';
+      font-weight: 100;
+      background: yellowgreen;
+      color: white;
+      border: none;
+  }
+   
+  p.success,
+  p.error {
+      color: white;
+      font-family: lato;
+      background: yellowgreen;
+      display: inline-block;
+      padding: 2px 10px;
+  }
+   
+  p.error {
+      background: orangered;
+  }   
+  
+  p.iconos-admin{
+      display: inline-block;
+    width: 25%; 
+  }
+  
+  
+  
+  footer {
+              position: relative;
+              padding:10px 0px;
+              clear: both;
+              background: #286af0;
+              text-align: center;
+              color: #fff;
+          }
+  .define {
+      width:960px;
+      margin:0 auto;
+  }
+  
+  
+  table.blueTable {
+    border: 1px solid #1C6EA4;
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  table.blueTable td, table.blueTable th {
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+  }
+  table.blueTable tbody td {
+    font-size: 13px;
+  }
+  table.blueTable tr:nth-child(even) {
+    background: #D0E4F5;
+  }
+  table.blueTable thead {
+    background: #1C6EA4;
+    background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    border-bottom: 2px solid #444444;
+  }
+  table.blueTable thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #D0E4F5;
+  }
+  table.blueTable thead th:first-child {
+    border-left: none;
+  }
+  
+  table.blueTable tfoot {
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #D0E4F5;
+    background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    border-top: 2px solid #444444;
+  }
+  table.blueTable tfoot td {
+    font-size: 14px;
+  }
+  table.blueTable tfoot .links {
+    text-align: right;
+  }
+  table.blueTable tfoot .links a{
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }
+  
+  
+  
+          .social{
+              width: 100%;
+              text-align: center;
+              padding:auto;
+          }
+          .social img{
+          height: 5em;
+          width: 5em;
+          }
+          .socialicon{
+              text-align: center;
+          }
+  
+
+          /*
+ * Open dropdowns on hover instead of click.
+ */
+@media (min-width: 768px) {
+    .dropdown:hover {
+      background: #e7e7e7;
+    }
+    .dropdown:hover > .dropdown-menu {
+      display: block;
+    }
+  }
+  
+  /*
+   * The following is needed since the dropdowns are <div> elements instead
+   * of <a> elements
+   */
+  .nav > li > div {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    cursor: default;
+  }
+  .navbar-nav > li > div {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 20px;
+  }
+  .navbar-default .navbar-nav > li > div {
+    color: rgb(119, 119, 119);
+  }
+  .navbar-collapse.collapse {
+    display: none;
+  }
+  .dropdown-open {
+    background: #e7e7e7;
+  }
